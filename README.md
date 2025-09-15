@@ -1,6 +1,6 @@
 # 🤖 Metaversus Landing Page With Next.JS and Framer Motion
 
-This project is a single-page landing page website built with **ReactJS**, **Tailwind**, **NextJS**, and **Framer Motion**. This website is for learning and practicing React, Tailwind and NextJS, and learn how to transform **Figma designs** into a fully functioning website. This project is created aiming to improve my Tailwind skills and creating modern and responsive ReactJS websites. This project is also my first step into learning NextJS.
+This project is a single-page landing page website built with **ReactJS**, **Tailwind**, **NextJS**, and **Framer Motion**. This website is for learning and practicing React, Tailwind, and NextJS, and learn how to transform **Figma designs** into a fully functioning website. This project is created aiming to improve my Tailwind skills and creating modern and **responsive** ReactJS websites. This project is also my first step into learning NextJS.
 
 ## ⚒️ Tech Stack
 
